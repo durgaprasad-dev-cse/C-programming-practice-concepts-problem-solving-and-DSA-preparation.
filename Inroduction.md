@@ -36,4 +36,4 @@ BCPL
 B
 C
 
-C became widely known because it was used to develop and rewrite major parts of the UNIX operating system.
+C became widely known because it was used to develop and rewrite major parts of the UNIX operating system and other operating systems.
